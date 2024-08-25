@@ -10,3 +10,5 @@
 ― Mary Anne Radmacher‍
 
 4. "Courage is being scared to death, but saddling up anyway.” 
+
+I am editing in vs code and pushing it to git hub
